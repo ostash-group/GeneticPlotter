@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="resources">
+  <file alias="e_round.png">res/img/e_round.png</file>
+	<file alias="close.png">res/img/close.png</file>
+	<file alias="logo.png">res/img/logo.png</file>
+	<file alias="spinner.gif">res/img/loading_spinner.gif</file>
+	<file alias="light_style.qss">res/qss/light_style.qss</file>
+  </qresource>
+</RCC>
