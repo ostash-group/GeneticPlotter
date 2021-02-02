@@ -22,4 +22,4 @@ Features:
 
 # Author
 
-The tool was created by Sergii Silov. Contact e-mail: serhiisilov@gmail.com
+The tool was created by Serhii Silov. Contact e-mail: serhiisilov@gmail.com
